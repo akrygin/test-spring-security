@@ -15,5 +15,6 @@ public class SpringSecurityApplication extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityApplication.class, args);
+		System.out.println("Temp");
 	}
 }
